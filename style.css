@@ -1,0 +1,19 @@
+.menu {
+    justify-content: space-around;
+}
+.we {
+    text-decoration: underline;
+    color: #666666;
+}
+@media (max-width: 767px) {
+    body {
+      height: 100%;
+    }
+    .main {
+        display: contents;
+    }
+    .foote {
+        text-align: center;
+    }
+}
+
